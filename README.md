@@ -61,7 +61,7 @@ This dataset has records for both Traffic Segments and Traffic Regions. Traffic 
 
 ### Visualization 1: Heatmap of Congestion by Hour and Day
 
-![heatmap](https://github.com/uic-cs424/assignment-2-chicagobulls/assets/144625177/cbc9740d-eebc-4fa5-ad40-b4ff2aae48f7)
+![1](https://github.com/user-attachments/assets/84276431-faf6-4f7c-9ee0-d9c3f77fe62d)
 
 
 The heatmap visualization of congestion by hour and day provides a comprehensive and insightful view of traffic patterns in Chicago. By using color intensity to represent congestion levels, it allows viewers to quickly grasp when and where congestion is most prevalent.
@@ -85,9 +85,9 @@ In conclusion, the heatmap visualization of congestion by hour and day provides 
 
 ### Visualization 2: Weekly Average Congestion Line Chart
 
-![avg speed](https://github.com/uic-cs424/assignment-2-chicagobulls/assets/144625177/997c0763-10ca-48e3-b026-ffc1c8dd0489)
+![2 1](https://github.com/user-attachments/assets/6c90976d-0142-46ac-ba77-e0695ffbe539)
 
-![hour speed](https://github.com/uic-cs424/assignment-2-chicagobulls/assets/144625177/6227a2ab-e22b-439b-891e-4b3938f1f3e4)
+![2 2](https://github.com/user-attachments/assets/dbc302b0-375a-44b9-9ae2-4cd980c1411c)
 
 
 
@@ -112,7 +112,7 @@ In conclusion, the Weekly Average Congestion Line Chart simplifies complex data 
 
 ### Visualization 3: Bar Chart of Top 10 Congested Arterial Streets
 
-![bar](https://github.com/uic-cs424/assignment-2-chicagobulls/assets/144625177/adf7ef53-c399-437e-9280-eaaaa51aff66)
+![3](https://github.com/user-attachments/assets/15875d73-95ad-4481-a0ff-0e3b32ede089)
 
 
 The Bar Chart provides a straightforward and insightful representation of the top 10 congested arterial streets in the dataset. Each street is listed on the x-axis, while the y-axis indicates the average congestion levels (in terms of SPEED). The chart allows for a quick assessment of congestion issues on specific streets.
@@ -133,7 +133,7 @@ In summary, the Bar Chart offers a concise and direct overview of the top conges
 
 ### Visualization 4: Time Series Plot
 
-![time](https://github.com/uic-cs424/assignment-2-chicagobulls/assets/144625177/f4875aef-8594-4b4e-9a86-644c76897154)
+![4](https://github.com/user-attachments/assets/a782044a-0539-4bcf-8e1c-02bbd983adcb)
 
 
 The time series plot visualizes the number of buses (BUS_COUNT) on a Chicago street over the course of a day, with the hour of the day (HOUR) on the x-axis. The color of the lines represents different directions, indicating how many buses are present in each direction at various hours.
@@ -157,7 +157,7 @@ In summary, the time series plot effectively visualizes how the number of buses 
 
 ### Visualization 5: Hexbin Plot
 
-![hexbin](https://github.com/uic-cs424/assignment-2-chicagobulls/assets/144625177/e8a2ba49-4869-4c43-8ea0-ffe4035f9436)
+![5](https://github.com/user-attachments/assets/f6aa8faf-0804-48b0-936e-abb2b5834e34)
 
 
 The hexbin plot visualizes the relationship between two variables: bus count (x-axis) and congestion level (y-axis), with the size of hexagons representing segment length. This plot groups data points into hexagonal bins, allowing you to see the density of points and any patterns more clearly.
@@ -182,7 +182,7 @@ In summary, the hexbin plot effectively visualizes the relationship between bus 
 
 ### Visualization 6: Bubble Chart of Bus Count, Congestion, and Segment Length
 
-![bubble](https://github.com/uic-cs424/assignment-2-chicagobulls/assets/144625177/cb9141fe-edeb-4d70-a0a8-3e267c61e1b4)
+![6](https://github.com/user-attachments/assets/35b00af0-ea4c-4185-b6bb-09216ca6f20e)
 
 
 The bubble chart visualizes the relationships among three variables: bus count (x-axis), congestion level (y-axis), and segment length (bubble size). Each data point on the chart is represented by a bubble, and the size of the bubble corresponds to the segment length.
@@ -205,7 +205,7 @@ In summary, the bubble chart effectively visualizes the relationships between bu
 
 ### Visualization 7: Box Plot of Monthly Congestion
 
-![box](https://github.com/uic-cs424/assignment-2-chicagobulls/assets/144625177/92a03756-f3fd-40a1-8b06-edcaf2146148)
+![7](https://github.com/user-attachments/assets/25fcf30e-b0ac-4aa0-af47-4d4189c9c23f)
 
 
 The box plot visualizes the distribution of congestion levels (SPEED) for each month (MONTH). It consists of a series of box-and-whisker plots, one for each month, allowing us to identify variations in congestion throughout the year.
@@ -226,7 +226,7 @@ In summary, the box plot of monthly congestion effectively reveals the distribut
 
 ### Visualization 8: Seasonal Congestion Stacked Area Chart
 
-![stack](https://github.com/uic-cs424/assignment-2-chicagobulls/assets/144625177/6d8160b2-a159-423e-a8e2-1ee17a23da43)
+![8](https://github.com/user-attachments/assets/6be4b97c-7865-4000-8892-1ba26d49a1f5)
 
 
 The seasonal congestion stacked area chart visualizes how congestion levels (SPEED) vary over time (HOUR) throughout the year. Each month is represented by a different color in the stacked area chart, enabling the observation of seasonal patterns in traffic congestion.
@@ -247,7 +247,7 @@ In summary, the seasonal congestion stacked area chart effectively visualizes th
 
 ### Visualization 9: Bar Chart of Top Congested Segments
 
-![seg](https://github.com/uic-cs424/assignment-2-chicagobulls/assets/144625177/d124989f-4888-44e5-a70e-9693acbd81ef)
+![9](https://github.com/user-attachments/assets/f0c3a775-f871-41b3-9fed-686921cceb9c)
 
 
 The bar chart of top congested segments presents a list of traffic segments (SEGMENT_ID) with the highest average congestion levels (SPEED). This chart helps identify and rank the segments that experience consistent congestion.
@@ -268,7 +268,7 @@ In summary, the bar chart of top congested segments efficiently lists and ranks 
 
 ### Visualization 10: Scatter Plot
 
-![scatter](https://github.com/uic-cs424/assignment-2-chicagobulls/assets/144625177/d13a74fa-f973-424a-8abb-80fa613ee5c9)
+![10](https://github.com/user-attachments/assets/178b36b5-953b-48e9-8dd0-276c8c21f6d9)
 
 
 
@@ -296,7 +296,7 @@ The implemented visualization is a grouped bar chart that compares the bus count
 
 **During COVID-19 (2020-2021):**
 
-![image](https://github.com/uic-cs424/assignment-2-chicagobulls/assets/115042657/b01c52cb-c196-4921-b3e1-3d76e1877029)
+![11 1](https://github.com/user-attachments/assets/c02d56cb-f0fe-421c-b4ff-c59ee1aa84c3)
 
 - For most months during the COVID-19 period, there is a clear decrease in the bus count compared to the average speed. This suggests a reduction in the number of buses on the road during this time.
 - The most significant drop in bus count relative to speed is observed in the 2nd and 8th months, but these values are not shown on the chart as they had negative speed values, which were excluded from the analysis.
@@ -304,7 +304,7 @@ The implemented visualization is a grouped bar chart that compares the bus count
 
 **Post-COVID (2022-2023):**
 
-![image](https://github.com/uic-cs424/assignment-2-chicagobulls/assets/115042657/75c0a28b-7b09-4d58-a823-2b8271b47430)
+![11 2](https://github.com/user-attachments/assets/aef5b93f-2b09-457b-8acb-c4505d1eaf7d)
 
 - In the post-COVID period, the bus count and average speed show variations across different months.
 - The 2nd and 8th months are included in this period, and the data suggests that there are still fluctuations in both bus count and average speed.
